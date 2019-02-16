@@ -8,6 +8,7 @@ Notbinary has a small amount of core permanent roles and we are always intereste
 - [Principal Engineer](https://github.com/notbinary/job-roles/blob/master/principal-engineer.md) 
 - Senior Engineer
 - Engineer
+- Technical Architect
 - Site Reliability Engineer
 - Data Engineer
 ---
