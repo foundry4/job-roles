@@ -11,7 +11,7 @@ Notbinary has a small amount of core permanent roles and we are always intereste
 - Site Reliability Engineer
 - Data Engineer
 ---
-- Squad Manager
+- [Squad Manager](https://github.com/notbinary/job-roles/blob/master/squad-manager.md) 
 - User Researcher 
 
 ---
