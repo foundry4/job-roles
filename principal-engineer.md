@@ -7,7 +7,7 @@ We help organisations think big, start small and scale fast.
 # Principal Engineer
 
 - Hands-on engineering leadership
-- Expertise in more than one technology (including Java, .Net, Ruby/Ruby or Python)
+- Expertise and interest in more than one programming language (e.g. Java, .Net, Python, Ruby/Rails)
 - Experience as an architect or leading and inspiring software development teams
 - Good understanding of building and working with legacy and ‘brownfield’ systems
 - Good understanding of cloud infrastructure toolset (AWS/ GCP/Azure etc)
