@@ -4,7 +4,7 @@ Notbinary are a fast growing technology consultancy focusing on lean software, d
 
 Our pragmatic but principled approach was forged at the front-line of Government digital transformation over the last decade and now we are helping clients in multiple industries.
 
-We help organisations think big, start small and scale fast.
+We help organisations think big, start small and stay the course.
 
 # Squad Manager
 
@@ -40,6 +40,10 @@ We describe our work pattern as the ‘3-4-5 rule’ -->
 - 5 days billed
 
 We follow this pattern as much as possible so our staff can maintain a sensible work-life balance. However, the needs of our clients take priority so make sure you're comfortable with this before applying.
+
+**Salary**
+
+£60,000 - £70,000pa + benefits
 
 **Hiring process**
 
