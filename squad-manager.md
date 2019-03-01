@@ -45,6 +45,10 @@ We follow this pattern as much as possible so our staff can maintain a sensible 
 
 £60,000 - £70,000pa + benefits
 
+**Apply**
+
+Email jukesie@notbinary.co.uk with a CV (or a link to LinkedIn if you prefer) and a few words about what appeals to you about this role. We'll take it from there.
+
 **Hiring process**
 
 Interviews will consist of an initial conversation with one of the Partners to get an idea of your working history and approach. If successful then there will be a more technical interview with the lead specialist. We don’t do riddles or whiteboards - we ask straight questions and are looking for evidence of potential as much as experience. Interviews can be in person or via the video chat client of your preference - candidates choice.
@@ -99,5 +103,7 @@ The team meets up in person every two months - a chance to share plans, scheme n
 **Code of conduct**
 
 All Notbinary staff (including contractors and freelancers) agree to accept our ‘[Code of Conduct](https://github.com/notbinary/job-roles/blob/master/code-of-conduct.md)’. This sets out unacceptable behaviours and the process to flag anything that strays from those principles. It is an evolving document and we welcome comment from team members on how we can improve it and our approach to creating a welcoming, diverse culture.
+
+
 
 
