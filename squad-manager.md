@@ -25,8 +25,11 @@ We help organisations think big, start small and stay the course.
 - Ensure the team lives up to the ‘Code of Conduct’
 
 
-Our Delivery Leads undertake a range of work. Often you will be working as part of a multi-disciplinary squad working to delivery specific outcomes for the client, other times you might be working alongside client staff to enhance their delivery capability. Whatever you find yourself doing your team(s) and clients will look to you to provide expertise and guidance in these ways of working.   
+Our Delivery Leads undertake a range of work. Often you will be working as part of a multi-disciplinary squad working to delivery specific outcomes for the client, other times you might be working alongside client staff to enhance their delivery capability. Whatever you find yourself doing your team(s) and clients will look to you to provide expertise and guidance in these ways of working. 
 
+**Learn more**
+
+We have written a series of blogposts explaining more about [this role](https://medium.com/notbinary/what-the-forking-here-is-a-squad-manager-77ccc9854cf5), how it fits in with our [squads approach](https://medium.com/notbinary/designing-the-mod-ern-squad-85a227738ddc) and [ways of working](https://medium.com/notbinary/ways-of-working-in-progress-5db4656bb753) at Notbinary. Also for those considering working on the supplier side for the first time we have also written out [what to expect](https://medium.com/@DigiTubbs/what-to-expect-when-youre-consulting-3f62951967f5).
 
 
 **This is important —>**
