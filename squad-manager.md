@@ -52,7 +52,7 @@ We follow this pattern as much as possible so our staff can maintain a sensible 
 
 Email jukesie@notbinary.co.uk with a CV (or a link to LinkedIn if you prefer) and a few words about what appeals to you about this role. We'll take it from there.
 
-**closing date: midnight 17/03/2019** *(basically the idea is we'll have this as an ongoing recruitment but two weeks open - then a month to sift, interview and decide. Then if needed we'll reopen and follow the same cadence.*
+**closing date: midnight 31/03/2019** *(basically the idea is we'll have this as an ongoing recruitment but two weeks open - then a month to sift, interview and decide. Then if needed we'll reopen and follow the same cadence.*
 
 **Hiring process**
 
