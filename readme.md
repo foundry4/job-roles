@@ -16,6 +16,6 @@ When we are **actively recruiting** these job descriptions will be added to notb
 
 Our **squads** are usually built around a lead pair of Delivery Manager and Tech Lead who are responsible for delivering the agreed outcomes for clients and the welfare of their **squad** (supported by the Directors).
 
-You can read a little about our ways of working here --> https://medium.com/notbinary/ways-of-working-in-progress-5db4656bb753
+You can read a little about our [ways of working](https://github.com/notbinary/ways-of-working/wiki)
 
 Additionally here is some information about how we think about consulting at Notbinary --> https://medium.com/@DigiTubbs/what-to-expect-when-youre-consulting-3f62951967f5
