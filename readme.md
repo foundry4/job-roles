@@ -19,9 +19,8 @@ Notbinary has a small amount of core permanent roles and we are always intereste
 
 ---
 
-We will be adding the job descriptions as they are completed and salary information as soon as we complete our benchmarking for each role.
 
-Our **squads** are usually built around a lead pair of Squad Manager and Principal Engineer who are responsible for delivering the agreed outcomes for clients and the welfare of their **squad** (supported by the Squad and Engineering Directors).
+Our **squads** are usually built around a lead pair of Delivery Manager and Tech Lead who are responsible for delivering the agreed outcomes for clients and the welfare of their **squad** (supported by the Directors).
 
 You can read a little about our ways of working here --> https://medium.com/notbinary/ways-of-working-in-progress-5db4656bb753
 
