@@ -7,7 +7,7 @@ Notbinary has a small amount of core permanent roles and we are always intereste
 
 - [Tech Lead (Digital Services)](https://github.com/notbinary/job-roles/blob/master/principal-engineer.md) 
 - [Delivery Manager](https://github.com/notbinary/job-roles/blob/master/squad-manager.md) 
-- User Researcher 
+- [User Researcher](https://github.com/notbinary/job-roles/blob/master/user-researcher.md) 
 - Business Analyst 
 - Senior Engineer
 - Engineer
