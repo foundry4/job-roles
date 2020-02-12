@@ -15,9 +15,7 @@ We help organisations think big, start small and learn fast.
 - Able to define the roadmap for any given product/service and ensure this is broken down into actionable, user-centric tasks
 - Can facilitate the agile planning process and communicate that to clients
 - Ensure that squads deliver on time and on budget (in partnership with Delivery and Operations Directors)
-- Ensure all products are built to an appropriate level of quality for the stage (Alpha/Beta/Live) according to the definitions laid out in the Government Service Standard (regardless of whether it is a Government project)
 - Be the voice of the project for Notbinary - managing communication with the client and the rest of the company
-- Knowledge of the Government Service Assessment process
 - Experience working directly with senior clients and managing their expectations throughout delivery
 - Help with proposals, pitching and identifying opportunities - influencing the work we bid for and helping the company succeed.
 - Experience working with client teams to support business cases and planning
