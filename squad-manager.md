@@ -58,40 +58,7 @@ Interviews will consist of an initial conversation with one of the Directors to 
 
 Assuming it all goes well we will make an offer.  We will also arrange an opportunity to meet other members of the team ahead of your start date. We’ll cover any expenses and give you a couple of extra days leave if you take us up on the offer.
 
-**Who will enjoy working at Notbinary?**
 
-Of course we are looking for great people with talent and experience. Who isn’t..
-
-What sets our teams apart is their mind-set; a set of behaviours that we cherish.
-
-**Learn it alls not know it alls**
-
-Our people love to learn. We want our people to share their knowledge and ideas, and that requires an open environment where people are safe to test out thoughts and ideas and even turn them into new products and services. Despite the level of expertise we may have in our field we should always have the humility to learn from others’ experience and perspectives – being an SME we can’t always act on them but we will always listen.  
-
-In fact, many of our clients tell us that it is our appetite for continuous learning that is so infectious and something they wish they could replicate in their own teams. If increasing your knowledge in an open, receptive environment is what drives you then we want to hear from you.
-
-**Mission focused**
-
-We have four very clear purposes. 
-
-
-1) We want to make sure our clients survive and thrive in the digital economy.
-
-2) We want our people to enjoy their work.
-
-3) We want to create interesting high value jobs and careers for people.
-
-4) ..and of course we want to be commercially successful.
-
-If one or more of these resonates with you then we want to hear from you.
-
-**Stubborn on vision, flexible on detail**
-
-OK so we copied this from Amazon. We know where we are going and we know how to be successful. But the detail of the journey? Well we learn more about that every day and it definitely doesn’t happen in a straight line. To use Jason Fried’s expression, our people are “managers of one”. They are entrepreneurial and resilient with a  limited need for structure, direction and micro management. But it’s not a great place for people who need every i dotted and every t crossed before pushing themselves out of their comfort zone. If this is the type of environment you want to work in then send us your CV.
-
-**Goal focused**
-
-Our people want to make an impact. It’s important to them that their work moves the needle. It’s not that processes, documentation or governance aren’t important to us, they are. But they can never become the thing. The thing has to be the goals we are trying to achieve for our clients, their customers and their shareholders.  We don’t do shirking, politics or buck passing. You’ll enjoy it here if you are action oriented.
 
 **Ways of working**
 
