@@ -1,31 +1,30 @@
 
 
-Notbinary are a fast growing technology consultancy focusing on lean software, data engineering and automation.
+We are a fast growing technology consultancy focusing on lean software, data and cloud services.
 
 Our pragmatic but principled approach was forged at the front-line of Government digital transformation over the last decade and now we are helping clients in multiple industries.
 
-We help organisations think big, start small and stay the course.
+We help organisations think big, start small and learn fast.
 
-# Squad Manager
+# Delivery Manager (Digital Services)
 
-- Hands-on agile squad leadership either as a product or delivery manager
+- Hands-on agile team leadership either as a product or delivery manager
 - Understanding of agile working rather than specific Agile™ frameworks
 - Experience of working agile within non-agile / waterfall organisations 
 - Experience operating within a ‘team of teams’
-- Define the roadmap for any given product/service and ensure this is broken down into actionable, user-centric tasks
-- Facilitate the agile planning process and communicate that to the client
-- Hiring and managing specialist digital teams
-- Work with the Delivery Director(s) to ensure that squads deliver on time and on budget 
+- Able to define the roadmap for any given product/service and ensure this is broken down into actionable, user-centric tasks
+- Can facilitate the agile planning process and communicate that to clients
+- Ensure that squads deliver on time and on budget (in partnership with Delivery and Operations Directors)
 - Ensure all products are built to an appropriate level of quality for the stage (Alpha/Beta/Live) according to the definitions laid out in the Government Service Standard (regardless of whether it is a Government project)
 - Be the voice of the project for Notbinary - managing communication with the client and the rest of the company
 - Knowledge of the Government Service Assessment process
 - Experience working directly with senior clients and managing their expectations throughout delivery
-- Work with our Growth Partner to help with proposals, pitching and identifying opportunities - influencing the work we bid for and helping the company succeed.
+- Help with proposals, pitching and identifying opportunities - influencing the work we bid for and helping the company succeed.
 - Experience working with client teams to support business cases and planning
 - Ensure the team lives up to the ‘Code of Conduct’
 
 
-Our Delivery Leads undertake a range of work. Often you will be working as part of a multi-disciplinary squad working to delivery specific outcomes for the client, other times you might be working alongside client staff to enhance their delivery capability. Whatever you find yourself doing your team(s) and clients will look to you to provide expertise and guidance in these ways of working. 
+Our Delivery Managers undertake a range of work. Often you will be working as part of a multi-disciplinary squad working to delivery specific outcomes for the client, other times you might be working alongside client staff to enhance their delivery capability or providing consultancy services assessing their digital capability and maturity. Whatever you find yourself doing your team(s) and clients will look to you to provide expertise and guidance in these ways of working. 
 
 **Learn more**
 
@@ -46,17 +45,16 @@ We follow this pattern as much as possible so our staff can maintain a sensible 
 
 **Salary**
 
-£60,000 - £70,000pa + benefits
+£50,000 - £60,000pa + benefits
 
 **Apply**
 
-Email jukesie@notbinary.co.uk with a CV (or a link to LinkedIn if you prefer) and a few words about what appeals to you about this role. We'll take it from there.
+Email jobs@notbinary.co.uk with a CV (or a link to LinkedIn if you prefer) and a few words about what appeals to you about this role. We'll take it from there.
 
-**closing date: midnight 31/03/2019** *(basically the idea is we'll have this as an ongoing recruitment but two weeks open - then a month to sift, interview and decide. Then if needed we'll reopen and follow the same cadence.*
 
 **Hiring process**
 
-Interviews will consist of an initial conversation with one of the Partners to get an idea of your working history and approach. If successful then there will be a more technical interview with the lead specialist. We don’t do riddles or whiteboards - we ask straight questions and are looking for evidence of potential as much as experience. Interviews can be in person or via the video chat client of your preference - candidates choice.
+Interviews will consist of an initial conversation with one of the Directors to get an idea of your work history and approach. If successful then there will be a more technical interview with the lead specialist. We don’t do riddles or whiteboards - we ask straight questions and are looking for evidence of potential as much as experience. Interviews can be in person or via the video chat client of your preference - candidates choice.
 
 Assuming it all goes well we will make an offer.  We will also arrange an opportunity to meet other members of the team ahead of your start date. We’ll cover any expenses and give you a couple of extra days leave if you take us up on the offer.
 
