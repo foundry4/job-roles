@@ -4,7 +4,7 @@
 
 **General description of the role**
 
-Foundry 4 is a technology consulting business to delivering mission critical cloud technology and engineering solutions for our clients that enable greater adaptiveness in an uncertain world. To this end we are taking a blended delivery approach consisting of internal capabilities and partners, and we are presenting an opportunity for you to be part of something special. 
+Foundry 4 is a technology consulting business that delivers mission critical cloud technology and engineering solutions for our clients that enable greater adaptiveness in an uncertain world. To this end we are taking a blended delivery approach consisting of internal capabilities and partners, and we are presenting an opportunity for you to be part of something special. 
 
 We are looking for passionate software engineers who care about software quality and craftsmanship. We want people who have working knowledge of the latest trends and are able to select and adopt the right technology solutions. We are looking for people who are strong advocates of robust engineering practices and love learning new skills.
 
