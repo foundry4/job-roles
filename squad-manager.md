@@ -6,7 +6,7 @@ Our pragmatic but principled approach was forged at the front-line of Government
 
 We help organisations think big, start small and learn fast.
 
-# Delivery Manager (Digital Services)
+# Delivery Manager
 
 Our Delivery Managers undertake a range of work. Often you will be working as part of a multi-disciplinary squad working to delivery specific outcomes for the client, other times you might be working alongside client staff to enhance their delivery capability or providing consultancy services assessing their digital capability and maturity. Whatever you find yourself doing your team(s) and clients will look to you to provide expertise and guidance in these ways of working. 
 
@@ -19,32 +19,11 @@ Our Delivery Managers undertake a range of work. Often you will be working as pa
 - Able to define the roadmap for any given product/service and ensure this is broken down into actionable, user-centric tasks
 - Can facilitate the agile planning process and communicate that to clients
 - Ensure that squads deliver on time and on budget (in partnership with Delivery and Operations Directors)
-- Be the voice of the project for Notbinary - managing communication with the client and the rest of the company
+- Be the voice of the project for F4 - managing communication with the client and the rest of the company
 - Experience working directly with senior clients and managing their expectations throughout delivery
 - Help with proposals, pitching and identifying opportunities - influencing the work we bid for and helping the company succeed.
 - Experience working with client teams to support business cases and planning
 - Ensure the team lives up to the ‘Code of Conduct’
-
-
-**This is important —>**
-
-Travel is required. Projects are usually at client offices, so our staff need to be flexible and up for extensive travel. Most of our people travel every week and travel home for weekends. We do our best to take people’s personal situations into account, but we know it’s not for everyone.
-
-We describe our work pattern as the ‘3-4-5 rule’ --> 
-
-- 3 nights in an hotel
-- 4 days in a client office
-- 5 days billed
-
-We follow this pattern as much as possible so our staff can maintain a sensible work-life balance. However, the needs of our clients take priority so make sure you're comfortable with this before applying.
-
-**Salary**
-
-£50,000 - £60,000pa + benefits
-
-**Apply**
-
-Email jobs@notbinary.co.uk with a CV (or a link to LinkedIn if you prefer) and a few words about what appeals to you about this role. We'll take it from there.
 
 
 **Hiring process**
@@ -55,17 +34,17 @@ Assuming it all goes well we will make an offer.  We will also arrange an opport
 
 **Ways of working**
 
-Notbinary are not based in an office; our staff are primarily based on site with clients or work from home but we do have hubs based in Cardiff and London where you can work alongside colleagues when the opportunity arises.
+We are not based in an office; our staff are primarily based on site with clients or work from home but we do have hubs based in Cardiff and London where you can work alongside colleagues when the opportunity arises.
 
 We embrace a ‘small teams, loosely joined’ philosophy - teams on client sites develop their own culture and approaches.
 
-Notbinary pays for the equipment you need, including your work laptop, desk rental in a co-working office or anything else that’s essential to getting stuff done.
+F4 pays for the equipment you need, including your work laptop, desk rental in a co-working office or anything else that’s essential to getting stuff done.
 
 The team meets up in person every two months - a chance to share plans, scheme new ideas and catch up with colleagues.
 
 **Code of conduct**
 
-All Notbinary staff (including contractors and freelancers) agree to accept our ‘[Code of Conduct](https://github.com/notbinary/job-roles/blob/master/code-of-conduct.md)’. This sets out unacceptable behaviours and the process to flag anything that strays from those principles. It is an evolving document and we welcome comment from team members on how we can improve it and our approach to creating a welcoming, diverse culture.
+All F4 staff (including contractors and freelancers) agree to accept our ‘[Code of Conduct](https://github.com/notbinary/job-roles/blob/master/code-of-conduct.md)’. This sets out unacceptable behaviours and the process to flag anything that strays from those principles. It is an evolving document and we welcome comment from team members on how we can improve it and our approach to creating a welcoming, diverse culture.
 
 **Learn more**
 
