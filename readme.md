@@ -8,9 +8,7 @@ When we are **actively recruiting** these job descriptions will be added to foun
 ---
 
 - [Principal Engineer](https://github.com/notbinary/job-roles/blob/master/principal-engineer.md) 
-- [Delivery Manager (Digital Services)](https://github.com/notbinary/job-roles/blob/master/squad-manager.md) 
-- [User Researcher (Digital Services)](https://github.com/notbinary/job-roles/blob/master/user-researcher.md) 
-- [Business Analyst (Digital Services)](https://github.com/notbinary/job-roles/blob/master/business-analyst.md)
+- [Delivery Manager](https://github.com/notbinary/job-roles/blob/master/squad-manager.md) 
 
 ---
 
